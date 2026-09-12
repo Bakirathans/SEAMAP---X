@@ -1,5 +1,4 @@
 import React from 'react';
-import { ArrowRight, Cpu, Activity, Compass, Zap } from 'lucide-react';
 
 export const TechnicalApproach: React.FC = () => {
   const signalChain = [

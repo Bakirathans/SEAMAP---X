@@ -1,5 +1,5 @@
 import React from 'react';
-import { AlertCircle, DollarSign, Target, Compass } from 'lucide-react';
+import { AlertCircle, Target, Compass } from 'lucide-react';
 
 export const About: React.FC = () => {
   return (

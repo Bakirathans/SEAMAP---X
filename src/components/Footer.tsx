@@ -1,5 +1,5 @@
 import React from 'react';
-import { Compass, ArrowUp } from 'lucide-react';
+import { ArrowUp } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   const scrollToTop = () => {

@@ -1,5 +1,4 @@
 import React from 'react';
-import { Ship, Radio, Compass, ArrowDown } from 'lucide-react';
 
 export const InnovationInAction: React.FC = () => {
   const steps = [

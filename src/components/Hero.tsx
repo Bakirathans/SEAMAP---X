@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Compass, Cpu, Layers } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 
 export const Hero: React.FC = () => {
   return (
